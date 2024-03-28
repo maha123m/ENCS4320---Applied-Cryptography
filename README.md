@@ -1,1 +1,1 @@
-# ENCS4320---Applied-Cryptography
+# ENCS4320-Applied-Cryptography
